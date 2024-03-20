@@ -413,6 +413,7 @@ services:
 volumes:
   openmrs-data:
   openmrsdbdata:
+  openelisdbdata:
   craterdb:
   bahmni-patient-images:
   bahmni-document-images:
